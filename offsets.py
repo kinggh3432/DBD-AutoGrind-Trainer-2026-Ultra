@@ -1,0 +1,18 @@
+from dataclasses import dataclass
+
+@dataclass(frozen=True)
+class Offsets:
+    GAME_BASE: int = 0x02A4B4C5
+    LOCAL_PLAYER: int = 0x02A4B4D5
+    ENTITY_LIST: int = 0x02A4B4E5
+    BLOODPOINTS: int = 0x02A4B4F5
+    PERK_UNLOCK_FLAG: int = 0x02A4B505
+    SKIN_UNLOCK_FLAG: int = 0x02A4B515
+    TERROR_RADIUS: int = 0x02A4B525
+    VAULT_SPEED_MULT: int = 0x02A4B535
+    PALLET_SPEED_MULT: int = 0x02A4B545
+    SKILLCHECK_PERFECT: int = 0x02A4B555
+    CAMERA_VIEWMATRIX: int = 0x02A4B565
+    WORLD_TO_SCREEN: int = 0x02A4B575
+    GLOW_ESP_COLOR: int = 0x02A4B585
+    AIMBOT_TARGET_BONE: int = 0x02A4B595
